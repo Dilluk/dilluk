@@ -1,5 +1,4 @@
-- 💫 Hello, I’m @Dilluk
-- ⭐ I'm interested in learning about new technologies and gaining new knowledge;
-- 🌟 I’m currently learning about JS, HTML and CSS;
-
-- ✨ If you want to contact me, send a message to my Telegram: https://t.me/Dilluk
+- 💫 Olá, me chamo @Dilluk
+- ⭐ Estou interessado em conhecer novas tecnologias e adquirir novos conhecimentos;
+- 🌟 Atualmente estou aprendendo sobre JS, HTML e CSS;
+- ✨ Se quiser entrar em contato comigo, mande uma mensagem ao meu Telegram: https://t.me/Dilluk
